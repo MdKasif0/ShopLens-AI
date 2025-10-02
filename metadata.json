@@ -1,0 +1,7 @@
+{
+  "name": "ShopLens AI",
+  "description": "An AI-powered visual search engine that allows you to take or upload photos of products and instantly find visually similar items across e-commerce platforms with real-time price comparisons.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
